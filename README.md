@@ -18,6 +18,9 @@ Actualmente trabajo en ingeniería de datos utilizando tecnologías como Python,
 | [Contratos Menores Ayuntamiento de A Coruña](https://github.com/phuerta-indra/phuerta-p1-contratos-menores-coruna) | Pipeline de datos end to end, para analizar las contrataciones durante el 2023-2026. Incorpora un chatbot que responde a las preguntas en lenguaje natural. | Python, Pandas, Snowflake, SQL, Power BI, Ollama |
 | [Análisis Precios de los Carburantes](https://github.com/phuerta-indra/phuerta-p3-precios-carburantes) | Histórico de precios de las gasolineras de toda España. Pipeline con ingesta, limpieza y modelado automáticas para llevarlo directamente a un dashboard. | Python, GitHub Actions, Snowflake, SQL, Power BI |
 
+## 🎓 Proyectos académicos
+Mis trabajos de la universidad (UAX) están en [mi otra cuenta de GitHub](https://github.com/pelahumi).
+
 ## 🎯 Fuera del código
 - 📷 Aprendiendo fotografía y vídeo, y practicando storytelling
 
