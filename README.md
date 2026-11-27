@@ -22,7 +22,7 @@ Actualmente trabajo en ingeniería de datos utilizando tecnologías como Python,
 - 📷 Aprendiendo fotografía y vídeo, y practicando storytelling
 
 ## 📫 Contacto
-[LinkedIn](www.linkedin.com/in/pelayo-huerta) · [Email](mailto:pelahumi@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/pelayo-huerta) · [Email](mailto:pelahumi@gmail.com) 
 
 ## 📊 Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=phuerta-indra&show_icons=true)
